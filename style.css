@@ -8,3 +8,6 @@
 @media(max-width:370px){.hero{height:780px}.hero h1{font-size:62px}.hero-content .eyebrow{font-size:5.5px}.hero-description{font-size:10px}.contact-phone{font-size:22px}.contact-content h2{font-size:53px}.contact-details{gap:22px}.review-foot{display:block}.review-foot>a{display:inline-block;margin-top:15px}.hero-photo-wrap{top:265px}footer>p{max-width:150px}.back-top{margin-left:0}.score>b{font-size:116px}}
 @media(min-width:761px){.hero-rating{padding:18px 19px 16px;width:244px;background:#141414e8;backdrop-filter:blur(12px);border-top:1px solid #64645b}.rating-source{font-size:10px}.rating-line>span{font-size:10px}.hero-rating:hover{background:#1b1b1bee}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
+
+/* Vector icons keep the same appearance on iOS and other platforms. */
+.icon{display:inline-block;width:1em;height:1em;vertical-align:-.15em;flex-shrink:0;pointer-events:none}
